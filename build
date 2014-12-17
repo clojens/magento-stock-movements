@@ -1,0 +1,4 @@
+#!/usr/bin/env zsh
+
+ls -1trdp src/**/*.*(N) | sed -rn 's|src/(.*)$|src/\1 \1|p' > modman
+

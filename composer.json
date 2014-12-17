@@ -1,0 +1,12 @@
+{
+    "name": "jreinke/magento-stock-movements",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Johann Reinke",
+            "email": "jreinke@bubbleshop.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

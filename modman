@@ -1,0 +1,17 @@
+src/app/locale/pt_BR/Bubble_StockMovements.csv app/locale/pt_BR/Bubble_StockMovements.csv
+src/app/locale/fr_FR/Bubble_StockMovements.csv app/locale/fr_FR/Bubble_StockMovements.csv
+src/app/locale/en_US/Bubble_StockMovements.csv app/locale/en_US/Bubble_StockMovements.csv
+src/app/etc/modules/Bubble_StockMovements.xml app/etc/modules/Bubble_StockMovements.xml
+src/app/code/community/Bubble/StockMovements/sql/bubble_stockmovements_setup/upgrade-1.0.0-1.1.0.php app/code/community/Bubble/StockMovements/sql/bubble_stockmovements_setup/upgrade-1.0.0-1.1.0.php
+src/app/code/community/Bubble/StockMovements/sql/bubble_stockmovements_setup/install-1.0.0.php app/code/community/Bubble/StockMovements/sql/bubble_stockmovements_setup/install-1.0.0.php
+src/app/code/community/Bubble/StockMovements/Model/Stock/Observer.php app/code/community/Bubble/StockMovements/Model/Stock/Observer.php
+src/app/code/community/Bubble/StockMovements/Model/Stock/Movement.php app/code/community/Bubble/StockMovements/Model/Stock/Movement.php
+src/app/code/community/Bubble/StockMovements/Model/Resource/Stock/Movement.php app/code/community/Bubble/StockMovements/Model/Resource/Stock/Movement.php
+src/app/code/community/Bubble/StockMovements/Model/Resource/Stock/Movement/Collection.php app/code/community/Bubble/StockMovements/Model/Resource/Stock/Movement/Collection.php
+src/app/code/community/Bubble/StockMovements/Model/CatalogInventory/Stock.php app/code/community/Bubble/StockMovements/Model/CatalogInventory/Stock.php
+src/app/code/community/Bubble/StockMovements/Helper/Data.php app/code/community/Bubble/StockMovements/Helper/Data.php
+src/app/code/community/Bubble/StockMovements/etc/config.xml app/code/community/Bubble/StockMovements/etc/config.xml
+src/app/code/community/Bubble/StockMovements/etc/adminhtml.xml app/code/community/Bubble/StockMovements/etc/adminhtml.xml
+src/app/code/community/Bubble/StockMovements/controllers/Adminhtml/Stock/MovementController.php app/code/community/Bubble/StockMovements/controllers/Adminhtml/Stock/MovementController.php
+src/app/code/community/Bubble/StockMovements/Block/Adminhtml/Stock/Movement.php app/code/community/Bubble/StockMovements/Block/Adminhtml/Stock/Movement.php
+src/app/code/community/Bubble/StockMovements/Block/Adminhtml/Stock/Movement/Grid.php app/code/community/Bubble/StockMovements/Block/Adminhtml/Stock/Movement/Grid.php
